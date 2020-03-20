@@ -1,0 +1,4 @@
+package mylib
+
+func UtilMethod() {
+}
